@@ -27,15 +27,9 @@ To run this project locally:
 - [Node.js](https://nodejs.org/en/) and npm installed  
   _(Recommended: install via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))_
 
-### Setup
+### Contribution 
 
-```bash
-# 1. Clone the repository
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+Made the frontend of DivyaLipi AI which was appreciated by Lingolette (Language learning platform)
 
-# 2. Install dependencies
-npm install
 
-# 3. Start the development server
-npm run dev
+
